@@ -1,4 +1,4 @@
-package homework4.part3;
+package homework4.part3_1;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
